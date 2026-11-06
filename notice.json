@@ -1,0 +1,72 @@
+{
+  "version": "1.0.0",
+  "notes": "",
+  "rotate": 15,
+  "ads": [
+    {
+      "title": "엑셀·PDF 업무, 더 빨리 끝내는 방법",
+      "sub": "현업에서 바로 쓰는 실무 팁 · flowdesk 블로그",
+      "cta": "블로그 보기",
+      "theme": "light",
+      "accent": "#ea580c",
+      "icon": "chart",
+      "link": "https://www.flowdesk.io.kr"
+    },
+    {
+      "title": "반복 업무, 자동화로 줄여 보세요",
+      "sub": "매일 하던 일을 버튼 한 번으로 바꾼 자동화 사례",
+      "cta": "사례 보기",
+      "theme": "light",
+      "accent": "#2563eb",
+      "icon": "bolt",
+      "link": "https://www.flowdesk.io.kr"
+    },
+    {
+      "title": "우리 회사 업무도 자동화할 수 있을까?",
+      "sub": "업무 자동화 상담은 flowdesk에 편하게 문의하세요",
+      "cta": "문의하기",
+      "theme": "soft",
+      "accent": "#c2410c",
+      "icon": "mail",
+      "link": "mailto:hello.flowdesk@gmail.com?subject=%5B%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%AC%B8%EC%9D%98%5D%20",
+      "choices": [
+        {
+          "label": "메일로 문의",
+          "link": "mailto:hello.flowdesk@gmail.com?subject=%5B%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%AC%B8%EC%9D%98%5D%20"
+        },
+        {
+          "label": "설문지로 문의",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSfPDdA913uuvNVpc_oXaZVfmXOv8EUa16hnt3ZNz46fYMUbYQ/viewform?usp=header"
+        }
+      ],
+      "choice_msg": "업무 자동화 상담, 편한 방법으로 남겨 주세요."
+    },
+    {
+      "title": "코딩 몰라도 프로그램을 만든 이야기",
+      "sub": "바이브코딩 작업기 · flowdesk 블로그 연재",
+      "cta": "읽어 보기",
+      "theme": "outline",
+      "accent": "#b45309",
+      "icon": "code",
+      "link": "https://www.flowdesk.io.kr"
+    },
+    {
+      "title": "PDF 편집기, 이렇게 쓰면 더 편해요",
+      "sub": "OCR·병합·엑셀 변환 활용법을 블로그에 정리했어요",
+      "cta": "활용법 보기",
+      "theme": "gradient",
+      "accent": "#7c3aed",
+      "icon": "tip",
+      "link": "https://www.flowdesk.io.kr"
+    },
+    {
+      "title": "일 잘하는 사람들의 도구 이야기",
+      "sub": "새 글이 매일 올라와요 · flowdesk 블로그",
+      "cta": "새 글 보기",
+      "theme": "split",
+      "accent": "#0f766e",
+      "icon": "pen",
+      "link": "https://www.flowdesk.io.kr"
+    }
+  ]
+}
