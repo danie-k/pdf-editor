@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "notes": "· 글자로 된 PDF의 표를 엑셀로 바꿀 때 표 구분·제목이 더 정확해졌어요\n· 문의 메일이 hello.flowdesk@gmail.com 으로 바뀌었어요\n· [문의 > 오픈소스 라이선스] 안내를 추가했어요\n· [문의 > 사용설명서](F1)에서 기능을 검색해 볼 수 있어요",
+  "version": "1.0.7",
+  "notes": "· 일부 PC에서 프로그램이 켜지지 않던 문제를 고쳤어요 (화면 엔진 WebView2가 없거나 막힌 PC는 설치할 때 전용 엔진을 자동으로 받아요)",
   "rotate": 15,
   "ads": [
     {
@@ -57,7 +57,7 @@
       "theme": "gradient",
       "accent": "#7c3aed",
       "icon": "tip",
-      "link": "https://www.flowdesk.io.kr/22"
+      "link": "https://www.flowdesk.io.kr"
     },
     {
       "title": "일 잘하는 사람들의 도구 이야기",
