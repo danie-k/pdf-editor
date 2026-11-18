@@ -1,18 +1,18 @@
-# PDF 편집기
+# PDFEditor
 
 PDF 보기·편집·병합·나누기·변환과 OCR(엑셀·워드·텍스트, 7개 언어)을 한 프로그램에서 쓸 수 있는 무료 Windows 프로그램입니다.
 
 ## 다운로드
 
-**[PDF 편집기 설치 파일 받기 (Windows 10/11, 64비트)](https://github.com/danie-k/pdf-editor/releases/latest/download/PDFEditor_Setup.exe)**
+**[PDFEditor 설치 파일 받기 (Windows 10/11, 64비트)](https://github.com/danie-k/pdf-editor/releases/latest/download/PDFEditor_Setup.exe)**
 
 - 관리자 권한 없이 설치됩니다. 기본 설치 위치는 `C:\PDFEditor`입니다.
 - "Windows의 PC 보호" 창이 뜨면 **[추가 정보] → [실행]**을 누르세요.
 - 새 버전이 나오면 프로그램이 알려 줍니다. **[업데이트]**를 누르면 자동으로 설치됩니다.
 
-**[PDF 편집기 맥용 받기 (애플 실리콘 M1 이상, macOS 13 이상)](https://github.com/danie-k/pdf-editor/releases/latest/download/PDFEditor_Mac.zip)**
+**[PDFEditor 맥용 받기 (애플 실리콘 M1 이상, macOS 13 이상)](https://github.com/danie-k/pdf-editor/releases/latest/download/PDFEditor_Mac.zip)**
 
-- 압축을 풀고 PDF 편집기를 **응용 프로그램** 폴더로 옮기세요.
+- 압축을 풀고 PDFEditor.app을 **응용 프로그램** 폴더로 옮기세요.
 - 처음 열 때 "열 수 없습니다" 창이 뜨면 [완료]를 누르고, **시스템 설정 > 개인정보 보호 및 보안** 맨 아래의 **[그래도 열기]**를 누르세요. 한 번만 하면 됩니다.
 - 맥에서는 PDF를 프로그램 창에 끌어다 놓거나 [파일 > PDF·이미지 열기](⌘O)로 엽니다.
 
@@ -26,9 +26,14 @@ PDF 보기·편집·병합·나누기·변환과 OCR(엑셀·워드·텍스트, 
   - 한국어·영어, 자동(한글+한자·일본어), 중국어·일본어, 영어·프랑스어·이탈리아어, 러시아어
   - 인터넷 없이 PC 안에서 처리
 
+## PDF 프린터
+
+- **윈도우**: 설치할 때 'PDFEditor 프린터 추가'를 고르면 엑셀·워드·한글의 인쇄 창 프린터 목록에 **PDFEditor**가 생겨요. 이걸로 인쇄하면 PDF가 만들어져 바로 열려요. (관리자 확인 창이 한 번 떠요)
+- **맥**: 아무 앱에서나 ⌘P → 왼쪽 아래 [PDF ▾] → **PDFEditor에서 열기**
+
 ## 문제 해결
 
-- **프로그램이 켜졌는데 창이 안 보일 때**: 작업 관리자(Ctrl+Shift+Esc)에서 PDF 편집기(A Neutralinojs application)를 작업 끝내기 한 뒤, 위 링크에서 설치 파일을 다시 받아 덮어 설치하세요. 문서와 설정은 그대로 남습니다.
+- **프로그램이 켜졌는데 창이 안 보일 때**: 작업 관리자(Ctrl+Shift+Esc)에서 PDFEditor(A Neutralinojs application)를 작업 끝내기 한 뒤, 위 링크에서 설치 파일을 다시 받아 덮어 설치하세요. 문서와 설정은 그대로 남습니다.
 - **실행해도 아무 반응이 없을 때 (윈도우)**: 설치 파일을 다시 받아 덮어 설치하세요. 화면 엔진이 안 되는 PC는 자동으로 엣지 창으로 열립니다.
 - **맥에서 "열 수 없습니다" 창이 뜰 때**: 시스템 설정 > 개인정보 보호 및 보안 맨 아래의 [그래도 열기]를 누르세요.
 
